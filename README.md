@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Connect with me: 
 
-###Languages and Tools:
 
