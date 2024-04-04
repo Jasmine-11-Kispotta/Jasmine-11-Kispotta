@@ -1,5 +1,7 @@
-# Hi there 👋, I'm Jasmine Kispotta
 
+# Hi there 👋, I'm Jasmine
+
+![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <!--
 **Jasmine-11-Kispotta/Jasmine-11-Kispotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
