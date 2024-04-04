@@ -1,7 +1,6 @@
 
 # Hi there 👋, I'm Jasmine
 
-(https://images.app.goo.gl/P8gdZrb4K98B79RL7)
 <!--
 **Jasmine-11-Kispotta/Jasmine-11-Kispotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
