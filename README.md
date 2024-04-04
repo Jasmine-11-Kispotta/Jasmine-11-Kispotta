@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#####Connect with me: 
+###Connect with me: 
 
-#####Languages and Tools:
-```javascript
-```markdown
-```html
+###Languages and Tools:
+
